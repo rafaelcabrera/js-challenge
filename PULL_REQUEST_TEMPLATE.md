@@ -2,9 +2,9 @@
 
 Solución al reto:
 
-Nombre:
-Usuario Platzi:
-Correo Electronico:
+Nombre: Rafael Cabrera
+Usuario Platzi: rafaelcabrera
+Correo Electronico: rafa_cabrera11@hotmail.com
 
 ## Reto:
 
